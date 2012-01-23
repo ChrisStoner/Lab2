@@ -1,0 +1,19 @@
+.aqua_background{
+	background: aqua;
+}
+
+.green_background{
+	background:green;
+}
+
+.red_background{
+	background: red;
+}
+
+.allign_right{
+	float: right;
+}
+
+.spacer{
+	min-height: 50px;
+}
